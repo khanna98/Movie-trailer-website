@@ -1,4 +1,4 @@
-# Movie Trailer Project
+# Movie Trailer Project - Python
 
 ## Introduction
 
